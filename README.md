@@ -11,7 +11,7 @@ In this course, you will learn the basic concepts and syntax of TensorFlow 2, an
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                 |
+|   Index | Name                                                    | Difficulty   | Practice                                                            |
 |---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |       1 | 📖 Concepts and Syntax of Tensorflow 2                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20758'>Start Lab</a> |
 |       2 | 📖 Implementation of Computing Derivative and Automat... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20785'>Start Lab</a> |
@@ -22,4 +22,9 @@ In this course, you will learn the basic concepts and syntax of TensorFlow 2, an
 |       7 | 📖 Deep Neural Network Implemented by Tensorflow 2       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20768'>Start Lab</a> |
 |       8 | 📖 Implementation of Classic Convolutional Neural Net... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20784'>Start Lab</a> |
 |       9 | 📖 Tensorflow 2 Model Saving and Restoring               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20813'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
