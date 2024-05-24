@@ -1,6 +1,6 @@
 # Quick Start with TensorFlow
 
-![Quick Start with TensorFlow](https://cover-creator.labex.io/quick-start-with-tensorflow.png)
+![Quick Start with TensorFlow](https://cover-creator.appbot.io/quick-start-with-tensorflow.png)
 
 In this course, you will learn the basic concepts and syntax of TensorFlow 2, and how to use TensorFlow 2 to implement deep learning algorithms.
 
