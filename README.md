@@ -27,8 +27,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                      |
-|---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                      |
+|---------|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Concepts and Syntax of Tensorflow 2                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-concepts-and-syntax-of-tensorflow-2-20758'>Start Lab</a>                               |
 |       2 | 📖 Implementation of Computing Derivative and Automat... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Start Lab</a> |
 |       3 | 📖 Linear Regression Implemented by Tensorflow 2         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-linear-regression-implemented-by-tensorflow-2-20797'>Start Lab</a>                     |
