@@ -1,6 +1,6 @@
 # Quick Start with TensorFlow
 
-[![Quick Start with TensorFlow](https://cover-creator.appbot.io/quick-start-with-tensorflow.png)](https://labex.io/courses/quick-start-with-tensorflow)
+[![Quick Start with TensorFlow](https://cover-creator.labex.io/quick-start-with-tensorflow.png)](https://labex.io/courses/quick-start-with-tensorflow)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-tensorflow)
 
@@ -17,7 +17,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -27,8 +27,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                 |
-|---------|---------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                 |
+|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Concepts and Syntax of Tensorflow 2                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>Start Lab</a>                               |
 |       2 | 📖 Implementation of Computing Derivative and Automat... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Start Lab</a> |
 |       3 | 📖 Linear Regression Implemented by Tensorflow 2         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>Start Lab</a>                     |
