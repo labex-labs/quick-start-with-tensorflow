@@ -1,8 +1,12 @@
 # Quick Start with TensorFlow
 
-[![Quick Start with TensorFlow](https://cover-creator.labex.io/quick-start-with-tensorflow.png)](https://labex.io/courses/quick-start-with-tensorflow)
+## Languages
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-tensorflow)
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![Quick Start with TensorFlow](https://cover-creator.labex.io/quick-start-with-tensorflow.png)](https://labex.io/en/courses/quick-start-with-tensorflow)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/quick-start-with-tensorflow)
 
 In this course, you will learn the basic concepts and syntax of TensorFlow 2, and how to use TensorFlow 2 to implement deep learning algorithms.
 
@@ -27,17 +31,17 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                 |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Concepts and Syntax of Tensorflow 2                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>Start Lab</a>                               |
-|       2 | 📖 Implementation of Computing Derivative and Automat... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Start Lab</a> |
-|       3 | 📖 Linear Regression Implemented by Tensorflow 2         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>Start Lab</a>                     |
-|       4 | 📖 Polynomial Regression Implemented by Low Level Api    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>Start Lab</a>                |
-|       5 | 📖 Shallow Neural Network Implemented by Tensorflow 2    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>Start Lab</a>                |
-|       6 | 📖 Classification of Car Safety Evaluation Dataset       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>Start Lab</a>                   |
-|       7 | 📖 Deep Neural Network Implemented by Tensorflow 2       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>Start Lab</a>                   |
-|       8 | 📖 Implementation of Classic Convolutional Neural Net... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>Start Lab</a>            |
-|       9 | 📖 Tensorflow 2 Model Saving and Restoring               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>Start Lab</a>                           |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                    |
+|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Concepts and Syntax of Tensorflow 2                   | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>Start Lab</a>                               |
+|       2 | 📖 Implementation of Computing Derivative and Automat... | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Start Lab</a> |
+|       3 | 📖 Linear Regression Implemented by Tensorflow 2         | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>Start Lab</a>                     |
+|       4 | 📖 Polynomial Regression Implemented by Low Level Api    | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>Start Lab</a>                |
+|       5 | 📖 Shallow Neural Network Implemented by Tensorflow 2    | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>Start Lab</a>                |
+|       6 | 📖 Classification of Car Safety Evaluation Dataset       | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>Start Lab</a>                   |
+|       7 | 📖 Deep Neural Network Implemented by Tensorflow 2       | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>Start Lab</a>                   |
+|       8 | 📖 Implementation of Classic Convolutional Neural Net... | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>Start Lab</a>            |
+|       9 | 📖 Tensorflow 2 Model Saving and Restoring               | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>Start Lab</a>                           |
 
 ## More
 
