@@ -33,19 +33,19 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                                  | 난이도   | 연습                                                                                                                                        |
 |----------|-------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Tensorflow 2 의 개념 및 구문                       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>실습 시작</a>                               |
-|        2 | 📖 미분 계산 및 자동 미분 구현                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>실습 시작</a> |
-|        3 | 📖 Tensorflow 2 로 구현하는 선형 회귀                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>실습 시작</a>                     |
-|        4 | 📖 Low Level API 로 구현된 다항 회귀                  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>실습 시작</a>                |
-|        5 | 📖 Shallow Neural Network Implemented by Tensorflow 2 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>실습 시작</a>                |
-|        6 | 📖 자동차 안전 평가 데이터셋 분류                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>실습 시작</a>                   |
-|        7 | 📖 Tensorflow 2 로 구현하는 딥 뉴럴 네트워크          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>실습 시작</a>                   |
-|        8 | 📖 고전적인 컨볼루션 신경망 구현                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>실습 시작</a>            |
-|        9 | 📖 Tensorflow 2 Model Saving and Restoring            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>실습 시작</a>                           |
+|        1 | 📖 Tensorflow 2 의 개념 및 구문                       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>실습 시작</a>                               |
+|        2 | 📖 미분 계산 및 자동 미분 구현                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>실습 시작</a> |
+|        3 | 📖 Tensorflow 2 로 구현하는 선형 회귀                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>실습 시작</a>                     |
+|        4 | 📖 Low Level API 로 구현된 다항 회귀                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>실습 시작</a>                |
+|        5 | 📖 Shallow Neural Network Implemented by Tensorflow 2 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>실습 시작</a>                |
+|        6 | 📖 자동차 안전 평가 데이터셋 분류                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>실습 시작</a>                   |
+|        7 | 📖 Tensorflow 2 로 구현하는 딥 뉴럴 네트워크          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>실습 시작</a>                   |
+|        8 | 📖 고전적인 컨볼루션 신경망 구현                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>실습 시작</a>            |
+|        9 | 📖 Tensorflow 2 Model Saving and Restoring            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>실습 시작</a>                           |
 
 ## 더 보기
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 무료 튜토리얼](https://github.com/labex-labs/ml-free-tutorials)
 
