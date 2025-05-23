@@ -33,19 +33,19 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                                     | Dificuldade   | Prática                                                                                                                                       |
 |----------|----------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Conceitos e Sintaxe do Tensorflow 2                   | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>Iniciar Lab</a>                               |
-|        2 | 📖 Implementação do Cálculo de Derivadas e Diferencia... | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Iniciar Lab</a> |
-|        3 | 📖 Regressão Linear Implementada pelo Tensorflow 2       | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>Iniciar Lab</a>                     |
-|        4 | 📖 Regressão Polinomial Implementada por API de Baixo... | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>Iniciar Lab</a>                |
-|        5 | 📖 Shallow Neural Network Implemented by Tensorflow 2    | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>Iniciar Lab</a>                |
-|        6 | 📖 Classificação do Conjunto de Dados de Avaliação de... | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>Iniciar Lab</a>                   |
-|        7 | 📖 Rede Neural Profunda Implementada com TensorFlow 2    | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>Iniciar Lab</a>                   |
-|        8 | 📖 Implementação da Rede Neural Convolucional Clássic... | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>Iniciar Lab</a>            |
-|        9 | 📖 Tensorflow 2 Model Saving and Restoring               | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>Iniciar Lab</a>                           |
+|        1 | 📖 Conceitos e Sintaxe do Tensorflow 2                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>Iniciar Lab</a>                               |
+|        2 | 📖 Implementação do Cálculo de Derivadas e Diferencia... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Iniciar Lab</a> |
+|        3 | 📖 Regressão Linear Implementada pelo Tensorflow 2       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>Iniciar Lab</a>                     |
+|        4 | 📖 Regressão Polinomial Implementada por API de Baixo... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>Iniciar Lab</a>                |
+|        5 | 📖 Shallow Neural Network Implemented by Tensorflow 2    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>Iniciar Lab</a>                |
+|        6 | 📖 Classificação do Conjunto de Dados de Avaliação de... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>Iniciar Lab</a>                   |
+|        7 | 📖 Rede Neural Profunda Implementada com TensorFlow 2    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>Iniciar Lab</a>                   |
+|        8 | 📖 Implementação da Rede Neural Convolucional Clássic... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>Iniciar Lab</a>            |
+|        9 | 📖 Tensorflow 2 Model Saving and Restoring               | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>Iniciar Lab</a>                           |
 
 ## Mais
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Tutoriais Gratuitos](https://github.com/labex-labs/ml-free-tutorials)
 
