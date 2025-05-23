@@ -33,19 +33,19 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                           |
 |---------|----------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Konzepte und Syntax von TensorFlow 2                  | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>Labor Starten</a>                               |
-|       2 | 📖 Implementierung der Ableitung berechnen und automa... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Labor Starten</a> |
-|       3 | 📖 Lineare Regression mit TensorFlow 2 implementiert     | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>Labor Starten</a>                     |
-|       4 | 📖 Polynomiale Regression mit der Low Level Api imple... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>Labor Starten</a>                |
-|       5 | 📖 Von TensorFlow 2 implementiertes schnelles neurona... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>Labor Starten</a>                |
-|       6 | 📖 Klassifizierung des Datensatzes zur Bewertung der ... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>Labor Starten</a>                   |
-|       7 | 📖 Deep Neural Network Implemented by Tensorflow 2       | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>Labor Starten</a>                   |
-|       8 | 📖 Implementierung eines klassischen konvolutionellen... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>Labor Starten</a>            |
-|       9 | 📖 TensorFlow 2 - Modellspeicherung und -wiederherste... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>Labor Starten</a>                           |
+|       1 | 📖 Konzepte und Syntax von TensorFlow 2                  | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>Labor Starten</a>                               |
+|       2 | 📖 Implementierung der Ableitung berechnen und automa... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>Labor Starten</a> |
+|       3 | 📖 Lineare Regression mit TensorFlow 2 implementiert     | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>Labor Starten</a>                     |
+|       4 | 📖 Polynomiale Regression mit der Low Level Api imple... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>Labor Starten</a>                |
+|       5 | 📖 Von TensorFlow 2 implementiertes schnelles neurona... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>Labor Starten</a>                |
+|       6 | 📖 Klassifizierung des Datensatzes zur Bewertung der ... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>Labor Starten</a>                   |
+|       7 | 📖 Deep Neural Network Implemented by Tensorflow 2       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>Labor Starten</a>                   |
+|       8 | 📖 Implementierung eines klassischen konvolutionellen... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>Labor Starten</a>            |
+|       9 | 📖 TensorFlow 2 - Modellspeicherung und -wiederherste... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>Labor Starten</a>                           |
 
 ## Mehr
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Kostenlose Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
