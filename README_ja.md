@@ -15,6 +15,20 @@
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-whitesmoke?style=for-the-badge&logo=scikit-learn)
 
 
+## 演習
+
+|   インデックス | 名前                                                      | 難易度   | 練習                                                                                                                                         |
+|----------------|-----------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 📖 🟢 Tensorflow 2 の概念と構文                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>ラボを開始</a>                               |
+|              2 | 📖 🟢 微分と自動微分の計算の実装                          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>ラボを開始</a> |
+|              3 | 📖 🟢 TensorFlow 2 による線形回帰の実装                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>ラボを開始</a>                     |
+|              4 | 📖 🟢 低レベル API による多項式回帰                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>ラボを開始</a>                |
+|              5 | 📖 🟢 TensorFlow 2 による浅層ニューラルネットワークの実装 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>ラボを開始</a>                |
+|              6 | 📖 🟢 自動車安全評価データセットの分類                    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>ラボを開始</a>                   |
+|              7 | 📖 🟢 TensorFlow 2 による深層ニューラルネットワークの実装 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>ラボを開始</a>                   |
+|              8 | 📖 🟢 古典的な畳み込みニューラルネットワークの実装        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>ラボを開始</a>            |
+|              9 | 📖 🟢 TensorFlow 2 モデルの保存と復元                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>ラボを開始</a>                           |
+
 ## 環境
 
 LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
@@ -25,23 +39,9 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                                                   | 難易度   | 練習                                                                                                                                         |
-|----------------|--------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 Tensorflow 2 の概念と構文                           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-concepts-and-syntax-of-tensorflow-2-20758'>ラボを開始</a>                               |
-|              2 | 📖 微分と自動微分の計算の実装                          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-implementation-of-computing-derivative-and-automatic-differential-20785'>ラボを開始</a> |
-|              3 | 📖 TensorFlow 2 による線形回帰の実装                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-implemented-by-tensorflow-2-20797'>ラボを開始</a>                     |
-|              4 | 📖 低レベル API による多項式回帰                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-polynomial-regression-implemented-by-low-level-api-20803'>ラボを開始</a>                |
-|              5 | 📖 TensorFlow 2 による浅層ニューラルネットワークの実装 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-shallow-neural-network-implemented-by-tensorflow-2-20809'>ラボを開始</a>                |
-|              6 | 📖 自動車安全評価データセットの分類                    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-classification-of-car-safety-evaluation-dataset-20756'>ラボを開始</a>                   |
-|              7 | 📖 TensorFlow 2 による深層ニューラルネットワークの実装 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-deep-neural-network-implemented-by-tensorflow-2-20768'>ラボを開始</a>                   |
-|              8 | 📖 古典的な畳み込みニューラルネットワークの実装        | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-implementation-of-classic-convolutional-neural-network-20784'>ラボを開始</a>            |
-|              9 | 📖 TensorFlow 2 モデルの保存と復元                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-tensorflow-2-model-saving-and-restoring-20813'>ラボを開始</a>                           |
 
 ## その他
 
